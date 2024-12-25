@@ -160,3 +160,11 @@ footer h1 {
   line-height: 3rem;
   word-break: break-all;
 }
+
+
+/* mobile */
+@media (width < 700px) {
+  main {
+    width: 365px;
+  }
+}
